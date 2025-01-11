@@ -5,7 +5,11 @@
 Telegram Account Manager is a powerful Python-based tool designed to automate responses to messages received via your Telegram account. Whether you want to generate AI-powered replies or customize specific responses for certain users, chats, or channels, this tool makes managing your Telegram interactions seamless and efficient. It’s ideal for promoting your services, engaging your audience, or maintaining consistent communication on Telegram.
 
 ---
+## Chlorama
+- Ai-powered
 
+## Simple Chlorama
+- Simple just your custom messages and replies
 ## Features
 
 ### 🔧 **Customizable Responses**
