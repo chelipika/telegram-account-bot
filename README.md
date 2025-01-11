@@ -43,8 +43,8 @@ Telegram Account Manager is a powerful Python-based tool designed to automate re
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-account-manager.git
-   cd telegram-account-manager
+   git clone https://github.com/chelipika/telegram-account-bot
+   cd telegram-account-bot
    ```
 
 2. Install dependencies:
